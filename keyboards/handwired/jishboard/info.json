@@ -1,11 +1,11 @@
 {
     "manufacturer": "Jishnu Dey",
-    "keyboard_name": "handwired/jishboard",
+    "keyboard_name": "jishboard",
     "maintainer": "JishDey",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
-        "bootmagic": true,
+        "bootmagic": false,
         "command": false,
         "console": true,
         "extrakey": true,
